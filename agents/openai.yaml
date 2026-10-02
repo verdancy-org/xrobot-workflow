@@ -1,0 +1,4 @@
+interface:
+  display_name: "XRobot Workflow"
+  short_description: "Generate LibXR/XRobot code and implement lifecycle-safe modules"
+  default_prompt: "Use XRobot Workflow for LibXR/XRobot module work."
